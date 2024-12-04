@@ -4,7 +4,7 @@ Hi 👋 My name is Eriq Moore
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Greenville, NC
+* 🌍  I'm based in North Carolina
 * ✉️  You can contact me at [eriqmoore15@gmail.com](mailto:eriqmoore15@gmail.com)
 * 🧠  I'm learning Adavance Javascript
 
