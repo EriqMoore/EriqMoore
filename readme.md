@@ -3,7 +3,6 @@
 ### Full Stack Developer | JavaScript Enthusiast
 
 - 🌍 Based in North Carolina
-- ✉️ Reach me at [eriqmoore15@gmail.com](mailto:eriqmoore15@gmail.com)
 ---
 
 ### Skills
