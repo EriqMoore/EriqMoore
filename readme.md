@@ -68,6 +68,6 @@
 
 ### About Me:
 
-Hi, I’m Eriq! I’m a passionate full-stack developer with a focus on JavaScript technologies. I love solving complex problems and building dynamic, scalable web applications. Currently, I'm deepening my expertise in **React** and exploring backend development with **Node.js** and **APIs**. I’m always eager to learn new things and challenge myself with real-world projects.
+Hi! I'm Eriq Moore, a Full Stack Developer based in North Carolina. I’m passionate about building web applications and constantly improving my skills. Currently, I’m focusing on learning React to enhance my front-end development expertise.
 
 ---
