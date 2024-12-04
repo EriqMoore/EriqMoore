@@ -64,10 +64,4 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=eriqmoore&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
----
 
-### About Me:
-
-Hi! I'm Eriq Moore, a Full Stack Developer based in North Carolina. I’m passionate about building web applications and constantly improving my skills. Currently, I’m focusing on learning React to enhance my front-end development expertise.
-
----
