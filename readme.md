@@ -4,8 +4,6 @@
 
 - 🌍 Based in North Carolina
 - ✉️ Reach me at [eriqmoore15@gmail.com](mailto:eriqmoore15@gmail.com)
-- 🧠 Currently diving deeper into **Advanced JavaScript**, focusing on **React**, **Node.js**, and **API Integration**.
-
 ---
 
 ### Skills
