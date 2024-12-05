@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Eriq Moore
 
-### Full Stack Developer | Currently Learning React
+### Full Stack Developer
 
 - 🌍 Based in North Carolina
 ---
