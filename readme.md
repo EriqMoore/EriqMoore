@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Eriq Moore
 
-### Full Stack Developer
+### Software Developer
 
 - 🌍 Based in North Carolina
 ---
