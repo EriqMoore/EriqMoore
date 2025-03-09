@@ -56,9 +56,3 @@
   <a href="https://www.github.com/eriqmoore" target="_blank" rel="noreferrer" style="text-decoration:none;">GitHub</a> |
   <a href="https://www.linkedin.com/in/eriq-moore-64a649188/" target="_blank" rel="noreferrer" style="text-decoration:none;">LinkedIn</a>
 </p>
-
----
-
-### GitHub Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=eriqmoore&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
